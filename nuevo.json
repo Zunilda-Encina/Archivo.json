@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Impresion 3D de una manzana",
+      "price": 5.000,
+      "description": "Aca iria la descripcion del producto y puede ser tanto largo como corto",
+      "image": "https://files.cults3d.com/uploaders/22465786/illustration-file/29118896-477e-41fb-89d8-f8c5054dd4f6/04.png",
+      "category": "electronic"
+    },
+    {
+      "title": "Impresion 3D de otra cosa",
+      "price": 15.000,
+      "description": "Esta seria de un ejemplo de texto medio corto",
+      "image": "https://files.cults3d.com/uploaders/14967516/illustration-file/9e3589cd-befe-4a52-b304-b456a60c8fbf/76590.jpg",
+      "category": "clothing"
+    }
+  ]
